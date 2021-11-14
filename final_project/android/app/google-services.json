@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745722340333",
+    "project_id": "mobdevauth",
+    "storage_bucket": "mobdevauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745722340333:android:7b9d88c9e6488f54e7fde4",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745722340333-lgog43ie9mjpcmsjcl3sgpho9rk51mcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBel-9z7wgNd7uSZaYAa-jHhXhTZxmPwj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745722340333-lgog43ie9mjpcmsjcl3sgpho9rk51mcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
